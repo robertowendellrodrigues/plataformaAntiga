@@ -1,12 +1,12 @@
 
-import Navbar from 'Componentes/Navbar';
+import Home from 'Componentes/pages/Home';
+
 import './App.css';
 
 function App() {
   return (
     <>
-  <Navbar/>
-   <h1>Alphatec Sistemas</h1> 
+  <Home/>
     
    </>
   );

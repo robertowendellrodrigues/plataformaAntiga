@@ -10,45 +10,45 @@ const Navbar = () => {
                     <a href="link" className="nav-logo-text">
                         <h4>Alphatec Sistemas</h4>
                     </a>
-                    <button 
-                    className='navbar-toggler'
-                    type='button'
-                    data-bs-toggle="collapse"
-                    data-bs-target="#site-navbar"
-                    aria-expanded="false"
-                    aria-label="Toggle navigation"
+                    <button
+                        className='navbar-toggler'
+                        type='button'
+                        data-bs-toggle="collapse"
+                        data-bs-target="#site-navbar"
+                        aria-expanded="false"
+                        aria-label="Toggle navigation"
                     >
-                    <span className='navbar-toggler-icon'></span>
+                        <span className='navbar-toggler-icon'></span>
                     </button>
 
 
                     <div className='collapse navbar-collapse' id='site-navbar'>
                         <ul className='navbar-nav offset-md-2 main-menu'>
                             <li>
-                               
-                            <a href="link" className='active'>Início</a>
+
+                                <a href="link" className='active'>Início</a>
                             </li>
                             <li>
-                                <a href="link">Cadastro</a>
+                                <a href="link">Soluções</a>
                             </li>
                             <li>
-                                <a href="link">Pedido </a>
+                                <a href="link">Sistemas</a>
                             </li>
                             <li>
-                                <a href="link">Consulta</a>
+                                <a href="link">Quem somos</a>
                             </li>
                             <li>
-                                <a href="link">Relatório</a>
+                                <a href="link">Fale conosco</a>
                             </li>
                             <li>
                                 <a href="link" >login</a>
                             </li>
-                            
-                            
+
+
                         </ul>
-                        
+
                     </div>
-                    
+
                 </div>
             </nav>
 
