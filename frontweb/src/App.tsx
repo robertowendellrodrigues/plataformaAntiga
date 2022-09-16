@@ -1,12 +1,14 @@
 
+
 import Home from 'Componentes/pages/Home';
+import Routes from 'Routes';
 
 import './App.css';
 
 function App() {
   return (
     <>
-  <Home/>
+  <Routes/>
     
    </>
   );

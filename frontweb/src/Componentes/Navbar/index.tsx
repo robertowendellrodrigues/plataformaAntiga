@@ -26,10 +26,10 @@ const Navbar = () => {
                         <ul className='navbar-nav offset-md-2 main-menu'>
                             <li>
 
-                                <a href="link" className='active'>Início</a>
+                                <a href="home" className='active'>Início</a>
                             </li>
                             <li>
-                                <a href="link">Soluções</a>
+                                <a href="catalog">Soluções</a>
                             </li>
                             <li>
                                 <a href="link">Sistemas</a>
@@ -41,7 +41,7 @@ const Navbar = () => {
                                 <a href="link">Fale conosco</a>
                             </li>
                             <li>
-                                <a href="link" >login</a>
+                                <a href="login" >login</a>
                             </li>
 
 

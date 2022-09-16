@@ -1,6 +1,6 @@
 
 
-const login = () => {
+const Login = () => {
     
     return (
         <>
@@ -35,4 +35,4 @@ const login = () => {
 }
 
 
-export default login;
+export default Login;
